@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.10.1)
+  - TrustKit (3.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - TrustKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - TrustKit
+
+SPEC CHECKSUMS:
+  Alamofire: 840d2a1ad82355b536ec6ba5f97e5bfa54600ca3
+  TrustKit: 403e8d2cfbff2abfc37cd41acc558dab8ec78e59
+
+PODFILE CHECKSUM: f02bbe7ef0bfbf4aa20da09acea547c553b15417
+
+COCOAPODS: 1.15.2
